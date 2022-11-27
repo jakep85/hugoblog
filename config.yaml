@@ -1,7 +1,7 @@
 author:
   email: example@example.com
   name: Author Name
-baseurl: https://hugoblogtest.github.io/
+baseurl: https://jakep85.github.io/hugoblogdeploy/
 copyright: © Author Name
 languagecode: en-us
 enablerobotstxt: true
