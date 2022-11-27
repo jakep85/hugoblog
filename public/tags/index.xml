@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Tags · Hugo Blog Test</title>
+    
+    <link>https://jakep85.github.io/hugoblogdeploy/tags/</link>
+    <description>Recent content in Tags · Hugo Blog Test</description>
+    
+    <language>en-us</language>
+    
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    <copyright>© Author Name</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://jakep85.github.io/hugoblogdeploy/tags/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>bluth</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/bluth/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/bluth/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>ipsum</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/ipsum/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/ipsum/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>css</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/css/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/css/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>html</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/html/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/html/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>markdown</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/markdown/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/markdown/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>privacy</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/privacy/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/privacy/</guid>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>shortcodes</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/shortcodes/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/shortcodes/</guid>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>text</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/text/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/text/</guid>
+      
+      
+      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>emoji</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/emoji/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/emoji/</guid>
+      
+      
+      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>index</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/tags/index/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/tags/index/</guid>
+      
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+  </channel>
+</rss>

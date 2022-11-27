@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Hugo Blog Test</title>
+    
+    <link>https://jakep85.github.io/hugoblogdeploy/projects/</link>
+    <description>Recent content in Hugo Blog Test</description>
+    
+    <language>en-us</language>
+    
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    <copyright>© Author Name</copyright>
+    
+    
+    
+    <atom:link href="https://jakep85.github.io/hugoblogdeploy/projects/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+  </channel>
+</rss>

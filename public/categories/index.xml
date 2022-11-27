@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Categories · Hugo Blog Test</title>
+    
+    <link>https://jakep85.github.io/hugoblogdeploy/categories/</link>
+    <description>Recent content in Categories · Hugo Blog Test</description>
+    
+    <language>en-us</language>
+    
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    <copyright>© Author Name</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://jakep85.github.io/hugoblogdeploy/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>bluth</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/categories/bluth/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/categories/bluth/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>ipsum</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/categories/ipsum/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/categories/ipsum/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>syntax</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/categories/syntax/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/categories/syntax/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>themes</title>
+      
+      
+      <link>https://jakep85.github.io/hugoblogdeploy/categories/themes/</link>
+      <guid>https://jakep85.github.io/hugoblogdeploy/categories/themes/</guid>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+    </item>
+    
+  </channel>
+</rss>
